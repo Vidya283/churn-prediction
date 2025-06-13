@@ -1,5 +1,4 @@
-# Customer Churn Prediction
-customer churn prediction project using ML
+# Customer churn prediction project using ML
 
 This project aims to predict whether a customer will churn (i.e., leave a service) using machine learning models. Understanding churn behavior helps businesses retain customers and reduce revenue loss.
 
